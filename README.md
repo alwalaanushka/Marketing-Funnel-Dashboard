@@ -74,5 +74,4 @@ Notification Settings
 👩‍💻 Developed Using
 Python + Streamlit
 ## 📷 Dashboard Preview
-
-https://github.com/alwalaanushka/Marketing-Funnel-Dashboard/blob/52091c70ecde06cce550719681e7d95d1cb2479f/dashboard_preview.png2.jpeg
+dashboard_preview.png.png
