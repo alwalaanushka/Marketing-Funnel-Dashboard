@@ -75,5 +75,4 @@ Notification Settings
 Python + Streamlit
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview)
-(dashboard_preview.png2)
+https://github.com/alwalaanushka/Marketing-Funnel-Dashboard/blob/52091c70ecde06cce550719681e7d95d1cb2479f/dashboard_preview.png2.jpeg
