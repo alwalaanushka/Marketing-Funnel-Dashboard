@@ -73,3 +73,7 @@ Dashboard Controls
 Notification Settings
 👩‍💻 Developed Using
 Python + Streamlit
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+(dashboard_preview.png2)
