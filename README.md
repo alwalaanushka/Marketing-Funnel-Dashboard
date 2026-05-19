@@ -75,3 +75,5 @@ Notification Settings
 Python + Streamlit
 ## 📷 Dashboard Preview
 dashboard_preview.png.png
+dashboard_preview.png2.jpeg
+
